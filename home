@@ -1,0 +1,18 @@
+<header>
+  <link rel="stylesheet" href="portfolio/css">
+</header>
+<body style="background-color:#000000; text-align:center">
+
+<h1>La digitale</h1>
+
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale>Sevizi</a><h2>
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale>Chi sono</a></h2>
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale>Portfolio</a></h2>
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale>Blog</a></h2>
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale></a></h2>
+<h2><a href=https://it.wikipedia.org/wiki/Pagina_principale></a></h2>
+  <div class="gen">
+  <a class="button" href='https://it.wikipedia.org/wiki/Pagina_principale'>Richiedi un preventivo</a></div>
+  </body>
+  
+
