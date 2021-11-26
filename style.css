@@ -19,7 +19,8 @@ p{color:#212121;
    font-family:poppins;
   font-size:14px;}
 
-.gen{text-align:center; 
+.gen{text-align:center;
+   background-color: #2f65b2;
   margin:auto;
   padding:40px;
   max-width:50%;
@@ -41,7 +42,7 @@ a:hover {
 a:active {
   color: #2f65b2;}
   
-.button{background-color: #2f65b2;
+.button a{
    color:#ffffff;
   text-decoration:none;
   font-size:20px;
