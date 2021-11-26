@@ -66,3 +66,47 @@ a:active {
              background-position: left top, right bottom; 
              background-repeat: no-repeat, no-repeat;
    background-size: 200%}
+
+
+
+/*-------------------------------- menù di navigazione ------------------------------------------------*/
+
+.nav-li{
+            list-style:none;
+            display:inline; 
+            padding: 30px; 
+            font-size: 16px; 
+            font-family:poppins; 
+            text-transform:uppercase;
+            color: #ffffff; 
+        }
+      
+    
+    .nav-li-selected {
+         list-style:none; 
+         display:inline; 
+         padding:27px; 
+         font-size: 16px; 
+         font-family:poppins; 
+         text-transform:uppercase; 
+         color:#2f65b2; 
+         background-color:#ffffff}
+    
+    .computer-nav{background-color:#2f65b2;
+      text-align:center;
+      margin:-10px; 
+      padding:25px}
+
+    @media screen and (max-width: 700px) { 
+      .computer-nav{display:none;
+                    visibility: hidden;
+      }
+    }
+    
+    a.nav:link{color:#ffffff;
+              text-decoration: none; 
+              font-size: 16px;}
+    a.nav:hover{color:#ffffff;
+              text-decoration: none}
+    a.nav:visited{color:#ffffff;
+              text-decoration: none}
