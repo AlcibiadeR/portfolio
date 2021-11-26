@@ -1,7 +1,7 @@
 h1{color:#212121;
    font-family:poppins;
   font-size: 60px;
-padding-top: 30px;
+padding-top: 60px;
   padding-bottom:30px; 
 text-transform:uppercase;
 letter-spacing:10px;
@@ -23,7 +23,6 @@ font-weight:400}
 
 a:link {
   color:#212121;
-  text-decoration: none;
   font-size:20px}
 
 a:visited {
@@ -36,7 +35,7 @@ a:hover {
 a:active {
   color: #2f65b2;}
   
-  .button{bakground-color: #2f65b2;
+  .button{background-color: #2f65b2;
      color:#ffffff;
   text-decoration:none;
   font-size:20px;
