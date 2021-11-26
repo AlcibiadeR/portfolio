@@ -36,9 +36,9 @@ a:hover {
 a:active {
   color: #2f65b2;}
   
-  .button{color: #2f65b2;
+  .button{bakground-color: #2f65b2;
+     color:#ffffff;
   text-decoration:none;
-  border:6px solid #2f65b2;
   font-size:20px;
   font-family:poppins;
   text-transform:uppercase;
@@ -50,8 +50,10 @@ a:active {
   width: 400px; 
  }
 
-.button:hover{border:6px solid #212121;
-   text-decoration:none;}
+.button:hover{border:6px solid #2f65b2;
+   color:#2f65b2;
+   text-decoration:none;
+bakground-color: #ffffff}
 
 
 .sfondo {background-image: url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo1.svg), url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo2.svg); 
