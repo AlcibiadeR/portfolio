@@ -23,14 +23,15 @@ font-weight:400}
 
 a:link {
   color:#212121;
-  font-size:20px}
+  font-size:20px;
+  tex-decoration: underline}
 
 a:visited {
   color:#212121;}
   
 a:hover {
   text-decoration:none;
-  color:#ff0000}
+  color: #2f65b2}
 
 a:active {
   color: #2f65b2;}
@@ -52,7 +53,7 @@ a:active {
 .button:hover{border:6px solid #2f65b2;
    color:#2f65b2;
    text-decoration:none;
-bakground-color: #ffffff}
+background-color: #ffffff}
 
 
 .sfondo {background-image: url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo1.svg), url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo2.svg); 
