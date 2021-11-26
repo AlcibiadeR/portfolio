@@ -36,8 +36,8 @@ a:hover {
 a:active {
   color: #2f65b2;}
   
-  .button{background-color: #2f65b2;
-     color:#ffffff;
+.button{background-color: #2f65b2;
+   color:#ffffff;
   text-decoration:none;
   font-size:20px;
   font-family:poppins;
@@ -53,7 +53,7 @@ a:active {
 .button:hover{border:6px solid #2f65b2;
    color:#2f65b2;
    text-decoration:none;
-background-color: #ffffff}
+   background-color: #ffffff}
 
 
 .sfondo {background-image: url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo1.svg), url(https://raw.githubusercontent.com/AlcibiadeR/portfolio/main/sfondo2.svg); 
