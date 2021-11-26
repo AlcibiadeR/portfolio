@@ -5,7 +5,8 @@ padding-top: 60px;
   padding-bottom:30px; 
 text-transform:uppercase;
 letter-spacing:10px;
-font-weight:700}
+font-weight:700;
+text-align: center}
 
 h2{color:#212121;
    font-family:poppins;
@@ -13,6 +14,10 @@ h2{color:#212121;
 letter-spacing:4px;
 line-height:45px;
 font-weight:400}
+
+p{color:#212121;
+   font-family:poppins;
+  font-size:14px;}
 
 .gen{text-align:center; 
   margin:auto;
